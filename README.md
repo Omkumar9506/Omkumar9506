@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Hariom Kumar Gupta <br>I am a Full Stack developer who enjoys building scalable and visually appealing web interfaces. I focus on performance, responsiveness, and clean component-based architecture. I continuously improve my skills by building practical projects and exploring modern frontend tools.<br>core language : C++, Java, Python, JavaScript<br>frontend : HTMl, CSS, javaScript, React.js, tailwind css, bootstrap<br>Backend language : javaScript, Node.js, express.js<br>database : MongoDB<br>Git/Github<br><br>
+I am Hariom Kumar Gupta <br>I am a Full Stack developer who enjoys building scalable and visually appealing web interfaces. I focus on performance, responsiveness, and clean component-based architecture. I continuously improve my skills by building practical projects and exploring modern frontend tools.
 
 
 ## 🌐 Socials:
